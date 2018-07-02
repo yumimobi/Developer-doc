@@ -1,4 +1,4 @@
-###AppLovin 平台
+### AppLovin 平台
 
 1. SDK Key:
 - 在AppLovin 平台的用户账号(Account-Keys)信息下，获取SDK Key参数
