@@ -1,11 +1,11 @@
-###  [Inmobi](https://www.inmobi.com) platform
+###  [Inmobi](https://www.inmobi.com)
 1.APP ID   
 
- From the [Inmobi](https://www.inmobi.com)  ADVERTISE Dashboard, select your application. 
+ From the [Inmobi ADVERTISE Dashboard](https://www.inmobi.com)  , select your application. 
 
 2.Placement ID	
 
-   From the [Inmobi](https://www.inmobi.com)  ADVERTISE Dashboard, select your application, find the placement  ID in the View  Creative   Manager.
+   From the [Inmobi ADVERTISE Dashboard](https://www.inmobi.com)  , select your application, find the placement  ID in the View  Creative   Manager.
 
 3.Account
 
@@ -17,8 +17,8 @@
 
 5 API Key     
 
-Email [Inmobi](https://www.inmobi.com) and request an API Key.
+Email Inmobi and request an API Key.
 
-6Account Currency	
+6 Account Currency	
      
- On the  [Inmobi](https://www.inmobi.com) platform, when the above account information is registered, the selected settlement currency is used for exchange rate conversion.
+ On the  [Inmobi platform](https://www.inmobi.com) , when the above account information is registered, the selected settlement currency is used for exchange rate conversion.

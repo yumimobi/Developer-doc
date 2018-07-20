@@ -1,7 +1,7 @@
 ### [Admob](https://apps.admob.com/)平台
 1. Ad Unit ID 
 
-   在[Admob](https://apps.admob.com/)平台应用管理页面，选择您的应用，选择“新广告单元”选择创建不同广告类型（横幅/插屏/视频等）的广告位参数并将其保存，用于获取[Admob](https://apps.admob.com/)平台广告。
+   在[Admob平台应用管理](https://apps.admob.com/)页面，选择您的应用，选择“新广告单元”选择创建不同广告类型（横幅/插屏/视频等）的广告位参数并将其保存，用于获取Admob平台广告。
 
  2. Account:
    

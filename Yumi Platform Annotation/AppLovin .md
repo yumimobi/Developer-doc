@@ -1,5 +1,4 @@
-### [AppLovin](https://www.applovin.com/login) platform
-
+### [AppLovin](https://www.applovin.com/login) 
 1. SDK Key
 
     From [AppLovin](https://www.applovin.com/login), choose your Account-Keys, select the "SDK Key".
@@ -20,4 +19,4 @@
      From [AppLovin](https://www.applovin.com/login), choose your Manage Apps, select the "bundle id ".
   7. Account Currency
     
-     On the [AppLovin](https://www.applovin.com/login)  platform, when the above account information is registered, the selected settlement currency is used for exchange rate conversion.
+     On the [AppLovin platform ](https://www.applovin.com/login)  , when the above account information is registered, the selected settlement currency is used for exchange rate conversion.

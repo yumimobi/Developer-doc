@@ -1,19 +1,19 @@
-### [Chartboost](http://www.chartboost.com/) platform
+### [Chartboost](http://www.chartboost.com/) 
 1. APP ID
 
-   You can find your game's App ID on its App Settings page on the [Chartboost](http://www.chartboost.com/) dashboard. 
+   You can find your game's App ID on its App Settings page on the [Chartboost dashboard](http://www.chartboost.com/) . 
 2. App Signature
 
-   You can find your game's App Signature on its App Settings page on the [Chartboost](http://www.chartboost.com/) dashboard. 
+   You can find your game's App Signature on its App Settings page on the [Chartboost dashboard](http://www.chartboost.com/) . 
 3. Account 
 
    From [Chartboost](http://www.chartboost.com/), Account information used for login.
 4. User ID
 
-    From the API Explorer Page, select the User ID.
+    From the [API Explorer Page](http://www.chartboost.com/), select the User ID.
 5. User Signature
 
-   From the API Explorer Page, select the User Signature.
+   From the [API Explorer Page](http://www.chartboost.com/), select the User Signature.
 6. Account Currency
 
-   On the [Chartboost](http://www.chartboost.com/)  platform, when the above account information is registered, the selected settlement currency is used for exchange rate conversion.
+   On the [Chartboost platform](http://www.chartboost.com/)  , when the above account information is registered, the selected settlement currency is used for exchange rate conversion.
