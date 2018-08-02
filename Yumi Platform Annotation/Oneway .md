@@ -13,14 +13,12 @@
 
 3. Account 
 
-   You can find your Account on its User Profile page on the [Oneway Profile](https://developer.oneway.mobi/). Account information is used for login.
+   You will find your Account in Company Info page under  [Oneway Profile](https://developer.oneway.mobi/). 
 
+1. Token
 
-4. Token
+     You will find your Account in Company Info page under  [Oneway Profile](https://developer.oneway.mobi/). 
 
-   From [Oneway APP](https://developer.oneway.mobi/), choose your APP, you can find your Token on this page.
+2. API Key
 
-
-5. API Key
-
-    You can find your API Key on its User Profile page on the [Oneway Profile](https://developer.oneway.mobi/).
+    You will find your Account in Company Info page under  [Oneway Profile](https://developer.oneway.mobi/). 
