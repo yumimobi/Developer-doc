@@ -12,5 +12,6 @@
 
 
 ## Documentation in English
-
-#### 1. [The API of creating app and slot](traffic_unity_web/creating%20app%20and%20slot.md)
+#### 1. [Instructions for developer system](https://github.com/yumimobi/Developer-doc/blob/master/Developer%20operating%20instructions/Developer%20Operating%20Instruction.md)
+#### 2. [The API of creating app and slot](traffic_unity_web/creating%20app%20and%20slot.md)
+#### 3. [Common issues of developer operating system](https://github.com/yumimobi/Developer-doc/blob/master/Common%20issues%20of%20developer%20operating%20system/Common%20issues%20of%20developer%20operating%20system.md)
