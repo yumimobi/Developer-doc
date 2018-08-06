@@ -1,5 +1,5 @@
  [Oneway](https://developer.oneway.mobi/) 平台
-1.  Publisher ID
+1. Publish ID
 
     在[Oneway 应用中心](https://developer.oneway.mobi/)页面，选择您的应用，获取Publisher ID。
 
