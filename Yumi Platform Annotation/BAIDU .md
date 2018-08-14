@@ -16,4 +16,4 @@
    The platform itself generates the DSA private key public key in PEM format.
 6. Account Currency
 
-   On the [BAIDU platform](http://mssp.baidu.com/) , when the above account information is registered, the selected settlement currency is used for exchange rate conversion.
+   On the [BAIDU platform](https://mssp.baidu.com/app/static/main.html/finance/payment/list) , when the above account information is registered, the selected settlement currency is used for exchange rate conversion.

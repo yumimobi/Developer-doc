@@ -9,7 +9,7 @@
 
 3. Account 
 
-   在[BAIDU 平台](http://mssp.baidu.com/)，登录使用的账户信息。
+   在[BAIDU 账号管理页面](https://mssp.baidu.com/app/static/main.html/account/list)，登录该平台使用的账户信息。
 
 4. Access Key 
 
@@ -21,4 +21,4 @@
 
 6. 账号币种
 
-   在[BAIDU 平台](http://mssp.baidu.com/) ，注册以上账户信息时，选择的结算币种，用于汇率转换。
+   在[BAIDU 平台](https://mssp.baidu.com/app/static/main.html/finance/payment/list) ，注册以上账户信息时，选择的结算币种，用于汇率转换。
