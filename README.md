@@ -17,6 +17,6 @@
 
 #### 2. [Common issues of developer operating system](https://github.com/yumimobi/Developer-doc/blob/master/Common%20issues%20of%20developer%20operating%20system/Common%20issues%20of%20developer%20operating%20system.md)
 
-#### 3. [Report API ](https://github.com/yumimobi/Developer-doc/blob/master/Report%20%20API%20specification/Report%20Api%20%E6%8E%A5%E5%8F%A3%E6%96%87%E6%A1%A3.md)
+#### 3. [Report API ](https://github.com/yumimobi/Developer-doc/blob/master/Report%20%20API%20specification/Report%20Api%20instruction.md)
 
 #### 4. [The API of creating app and slot](traffic_unity_web/creating%20app%20and%20slot.md)
