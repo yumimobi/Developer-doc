@@ -1,11 +1,11 @@
 ###     [ZPLAYAds](http://www.zplayads.com/) 
 1. APP ID 
     
-    From the [ZPLAYAds App Management Dashboard](http://www.zplayads.com/) , select your APP ID.
+    From the [ZPLAYAds App Management Dashboard](https://ssp.yumimobi.com/#/en/app/appList/) , select your APP ID.
 
 2. AdUnit ID
     
-     From the [ZPLAYAds Slot Management Dashboard](http://www.zplayads.com/) , select your AdUnit ID. 
+     From the [ZPLAYAds Slot Management Dashboard](https://ssp.yumimobi.com/#/en/slot/slotList/) , select your AdUnit ID. 
 3. Account ID
 
    In Personal Center, from the REPORT API, select the Account ID.

@@ -1,22 +1,22 @@
 ### [AppLovin](https://www.applovin.com/login) 
 1. SDK Key
 
-    From [AppLovin](https://www.applovin.com/login), choose your Account-Keys, select the "SDK Key".
+    From [AppLovin](https://dash.applovin.com/account#keys), choose your Account-Keys, select the "SDK Key".
 2. Zone 
 
-   From [AppLovin](https://www.applovin.com/login), choose Zones select the "Zone".
+   From [AppLovin](https://dash.applovin.com/zones), choose Zones select the "Zone".
 3. Zone Id
 
-    From [AppLovin](https://www.applovin.com/login), choose Zones select the "Zone Id".
+    From [AppLovin](https://dash.applovin.com/zones), choose Zones select the "Zone Id".
 4. Account
  
    From [AppLovin](https://www.applovin.com/login), Account information used for login.
  5. Api Key 
 
-    From [AppLovin](https://www.applovin.com/login), choose your Account-Keys, select the "Report Key".
+    From [AppLovin](https://dash.applovin.com/account#keys), choose your Account-Keys, select the "Report Key".
   6. Bundle Id 
  
-     From [AppLovin](https://www.applovin.com/login), choose your Manage Apps, select the "bundle id ".
+     From [AppLovin](https://dash.applovin.com/manage), choose your Manage Apps, select the "bundle id ".
   7. Account Currency
     
      On the [AppLovin platform ](https://www.applovin.com/login)  , when the above account information is registered, the selected settlement currency is used for exchange rate conversion.

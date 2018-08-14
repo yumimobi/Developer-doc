@@ -13,12 +13,12 @@
 
 4. User ID
 
-   在 [API Explorer Page](http://www.chartboost.com/)页面，获取User ID 参数。
+   在 [API Explorer Page](https://dashboard.chartboost.com/tools/api)页面，获取User ID 参数。
 
 5. User Signature
 
-   在 [API Explorer Page](http://www.chartboost.com/)页面，获取User Signature 参数。
+   在 [API Explorer Page](https://dashboard.chartboost.com/tools/api)页面，获取User Signature 参数。
 
 6. 账号币种
  
-   在[Chartboost 平台](http://www.chartboost.com/) ，注册以上账户信息时，选择的结算币种，用于汇率转换。
+   在[Chartboost 平台](http://www.chartboost.com/)，注册以上账户信息时，选择的结算币种，用于汇率转换。

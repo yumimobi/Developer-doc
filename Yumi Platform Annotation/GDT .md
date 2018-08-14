@@ -1,10 +1,10 @@
 ###    [GDT](http://e.qq.com/dev/#medium/list?mbid=l2355135838) 
 1. APP ID
 
-   You can find your game's App ID on its App Settings page on the [GDT](http://e.qq.com/dev/#medium/list?mbid=l2355135838). 
+   You can find your game's App ID on its App Settings page on the [GDT](http://adnet.qq.com/medium/list). 
 2. Placement  ID
 
-   You can find your game's placement  ID on its App placement Settings page on the [GDT](http://e.qq.com/dev/#medium/list?mbid=l2355135838). 
+   You can find your game's placement  ID on its App placement Settings page on the [GDT](http://adnet.qq.com/placement/list). 
 
 
 3. Account
