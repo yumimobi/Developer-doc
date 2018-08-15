@@ -24,14 +24,14 @@
 
 | 参数          | 描述     |
 | -----------    |   ---------- |
-| signature  |   加密签名，signature结合了开发者的密钥参数和请求中的timestamp                     参数、 nonce参数。      |
-|  timestamp     |  时间戳    |
-|  nonce         |  随机数     
+| signature  |   加密签名，signature结合了开发者的密钥参数和请求中的timestamp参数、 nonce参数。      |
+|  timestamp     |  时间戳,[参考地址](https://tool.lu/timestamp/) |
+|  nonce         |  随机数字 |    
 
 
 加密/校验流程如下：
 
-1.将token、timestamp、nonce三个参数进行字典序排序
+1.将Secrect、timestamp、nonce三个参数进行字典序排序
 
 2.将三个参数字符串拼接成一个字符串进行sha1加密
 
@@ -188,8 +188,8 @@ data字段说明:
 |-----   |  -------- |  ----- |
 | {devId} |  string | 位于url中，为开发者id |
 |{cornId}  | string  |  位于url中，为应用id  |
-|  start_date  | date | 开始日期,必选参数,格式为2010-01-01,闭区间 |
-| end_date|  date  | 结束日期,必选参数,格式为2010-01-01,闭区间 |
+|  start_date  | date | 开始日期,必选参数,格式为2018-01-01,闭区间 |
+| end_date|  date  | 结束日期,必选参数,格式为2018-01-01,闭区间 |
 
 
 关于日期的相关说明：

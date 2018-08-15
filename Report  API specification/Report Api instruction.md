@@ -29,13 +29,13 @@ After verification is approved, developers need to pass 3 parameters in their re
 | Parameter             | Description     |
 | -----------    |   ---------- | 
 | signature  |   Encrypted signature, combining developer's secrect parameters and nounce in requests                     |
-|  timestamp     |  timestamp    |
+|  timestamp     |  timestamp [Reference address](https://tool.lu/timestamp/)   |
 |  nonce         |  Random number     |
 
 
 Encryption/examination process：
 
-1.Sort token, timestamp and nonce in alphabetical order
+1.Secrect, timestamp and nonce in alphabetical order
 
 2.Put the three parameter strings in one string to encrypt with sha1
 
@@ -191,8 +191,8 @@ Collect statistics of an application
 |-----   |  -------- |  ----- |
 | {devId} |  string | Devid located in url |
 |{cornId}  | string  |  App id loacated in url  |
-|  start_date  | date | Required parameter indicating start date, format as 2010-01-01 |
-| end_date|  date  | Required parameter indicating end date, format as 2010-01-01 |
+|  start_date  | date | Required parameter indicating start date, format as 2018-01-01 |
+| end_date|  date  | Required parameter indicating end date, format as 2018-01-01 |
 
 
 About date：
