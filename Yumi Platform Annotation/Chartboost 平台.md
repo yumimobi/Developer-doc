@@ -1,24 +1,24 @@
 ### [Chartboost](http://www.chartboost.com/) 平台
 1. APP ID
    
-   在[Chartboost 平台](http://www.chartboost.com/)，选择您的应用，找到对应的 APP ID。 
+   在[Chartboost 后台-所有应用](https://dashboard.chartboost.com/all/advertising)页面，选择您的应用后，在[应用设置-基本设置](https://dashboard.chartboost.com/5b72af475b1afb0f69f2db0d/settings)页面找到对应的 APP ID。 
 
 2. App Signature
 
-   在[Chartboost 平台](http://www.chartboost.com/)，选择您的应用，找到对应的 App Signature。
+    在[Chartboost 后台-所有应用](https://dashboard.chartboost.com/all/advertising)页面，选择您的应用后，在[应用设置-基本设置](https://dashboard.chartboost.com/5b72af475b1afb0f69f2db0d/settings)页面找到对应的 APP Signature。
 
 3. Account 
 
-   在[Chartboost 平台](http://www.chartboost.com/)，登录使用的账户信息。
+   在[Chartboost 账户-我的设置](https://dashboard.chartboost.com/account/my-settings)页面，“电子邮件”为须填写参数。
 
 4. User ID
 
-   在 [API Explorer Page](https://dashboard.chartboost.com/tools/api)页面，获取User ID 参数。
+   在 [Chartboost 工具-API浏览器](https://dashboard.chartboost.com/tools/api)页面，获取User ID 参数。
 
 5. User Signature
 
-   在 [API Explorer Page](https://dashboard.chartboost.com/tools/api)页面，获取User Signature 参数。
+   在 [Chartboost 工具-API浏览器](https://dashboard.chartboost.com/tools/api)页面，获取User Signature 参数。
 
 6. 账号币种
  
-   在[Chartboost 平台](http://www.chartboost.com/)，注册以上账户信息时，选择的结算币种，用于汇率转换。
+   在[Chartboost 管理资金-支付详情](https://dashboard.chartboost.com/account/funds)页面获取结算币种。此币种即注册时选择的账号币种，用于汇率转换。

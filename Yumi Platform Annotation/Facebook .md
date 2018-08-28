@@ -8,4 +8,4 @@
     Learn how to generate [System User Token](https://developers.facebook.com/docs/audience-network/reporting-api/systemuser) here.
 3.  Account Currency
 
-    On the [Facebook platform](https://developers.facebook.com/)  , when the above account information is registered, the selected settlement currency is used for exchange rate conversion.
+    When the above account information is registered on the [Facebook platform](https://developers.facebook.com/), the selected settlement currency is used for exchange rate conversion.

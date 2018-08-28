@@ -10,7 +10,7 @@
     
 3. APP Key
 
-   From [APP Setting](https://static.mintegral.net/app), choose your APP, you can find your APP Key on this page.
+   From [APP Setting](https://static.mintegral.net/app), you can find your APP Key on this page.
     
 4. Reward ID
 
@@ -18,18 +18,18 @@
 
 5. Account
 
-     You will find your Account in Company Info page under [Mintegral Account-Company Info](https://static.mintegral.net/account). 
+     You will find your Account  on the [Mintegral Account-Company Info page](https://static.mintegral.net/account). Your Account will be labled as "Email" on this page.
     
 
 6. Skey
 
-   You will find your Account in Company Info page under [ Mintegral Account-Company Info](https://static.mintegral.net/account).
+   You will find your Account on the [ Mintegral Account-Company Info page](https://static.mintegral.net/account).
 
 7. Secret
     
-     You will find your Account in Company Info page under [Mintegral Account-Company Info](https://static.mintegral.net/account).
+     You will find your Secrect on the [Mintegral Account-Company Info page](https://static.mintegral.net/account).
 
 8. Account Currency
 
     
-    On the  [Mintegral platform](https://www.mintegral.net/), when the above account information is registered, the selected settlement currency is used for exchange rate conversion.
+    On the  [Mintegral Account -Payment Info page](https://static.mintegral.net/account/payment), your Account Currency will be labled as "Payment Currency" on this page.

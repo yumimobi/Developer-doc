@@ -1,7 +1,7 @@
  [Oneway](https://developer.oneway.mobi/) 
-1.  Publisher ID
+1.  Publish ID
 
-     From [Oneway APP](https://developer.oneway.mobi/#/app), choose your APP, you can find your Publisher ID on this page.
+     From [Oneway APP](https://developer.oneway.mobi/#/app), choose your APP, you can find your Publish ID on this page.
 
 2.  Placement ID
 
@@ -10,16 +10,13 @@
 
 3. Account 
 
-   You will find your Account in Company Info page under  [Oneway Profile](https://developer.oneway.mobi/#/profile). 
+   You will find your Account under [Oneway Profile -User Profile](https://developer.oneway.mobi/#/profile?tabIdx=0). Your Account will be labled as "Email" on this page.
 
-4. Token
 
-     You will find your Account in Company Info page under  [Oneway Profile](https://developer.oneway.mobi/#/profile). 
+4. API Key
 
-5. API Key
+    You will find your API Key under  [Oneway Profile -User Profile](https://developer.oneway.mobi/#/profile?tabIdx=0). 
 
-    You will find your Account in Company Info page under  [Oneway Profile](https://developer.oneway.mobi/#/profile). 
+5. Account Currency
 
-6. Account Currency
-
-   On the [Oneway platform](https://developer.oneway.mobi/) , when the above account information is registered, the selected settlement currency is used for exchange rate conversion.
+   On the [Oneway Profile -Financial Profile page](https://developer.oneway.mobi/#/profile?tabIdx=1) , your Account Currency will be labled as "Currency" on this page. 

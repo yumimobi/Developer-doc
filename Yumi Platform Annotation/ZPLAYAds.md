@@ -1,17 +1,17 @@
 ###     [ZPLAYAds](http://www.zplayads.com/) 
 1. APP ID 
     
-    From the [ZPLAYAds App Management Dashboard](https://ssp.yumimobi.com/#/en/app/appList/) , select your APP ID.
+    From [ZPLAYAds Application Management Dashboard](https://en-sellers.zplayads.com/#/app/appList/) , select your APP ID.
 
 2. AdUnit ID
     
-     From the [ZPLAYAds Slot Management Dashboard](https://ssp.yumimobi.com/#/en/slot/slotList/) , select your AdUnit ID. 
+     From [ZPLAYAds AdUnit Management Dashboard](https://en-sellers.zplayads.com/#/ad/placeList/) , select your AdUnit ID. 
 3. Account ID
 
-   In Personal Center, from the REPORT API, select the Account ID.
+   From [ZPLAYAds Account Information](https://en-sellers.zplayads.com/#/personal/personalInfo/), select the Account ID.
 4. API Key
 
-   In Personal Center, from the REPORT API, select the API Key.
+   From [ZPLAYAds Account Information](https://en-sellers.zplayads.com/#/personal/personalInfo/), select the API Key under REPORT API.
 5. Account Currency
      
-      On the [ZPLAYAds platform](http://www.zplayads.com/)  , when the above account information is registered, the selected settlement currency is used for exchange rate conversion.
+      On the [ZPLAYAds Account Information page](https://en-sellers.zplayads.com/#/personal/personalInfo/), your Account Currency will be labled as "Settlement Currency" on this page.

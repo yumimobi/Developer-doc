@@ -1,25 +1,26 @@
 ### [AppLovin](https://www.applovin.com/login) 
 1. SDK Key
 
-    From [AppLovin](https://dash.applovin.com/account#keys), choose your Account-Keys, select the "SDK Key".
+   On the [AppLovin Account-Keys page](https://dash.applovin.com/account#keys), select the "SDK Key".
 2. Zone 
 
-   From [AppLovin Zones](https://dash.applovin.com/zones), choose Zones select the "Zone".
+    On the [AppLovin Monetize-Zones page](https://dash.applovin.com/zones), select the "Zone".
+
 3. Zone Id
 
-    From [AppLovin](https://dash.applovin.com/zones), choose Zones select the "Zone Id".
+    From [AppLovin Zones](https://dash.applovin.com/zones), choose Zones select the "Zone Id".
 4. Account
  
-   From [AppLovin Basic Info](https://dash.applovin.com/account#basic_info), Account is email. Log on to the platform account.
+   On the [AppLovin Account-Basic Info page](https://dash.applovin.com/account#basic_info), your Account will be labled as "Email" on this page.
    
  5. Api Key 
 
-    From [AppLovin Account Keys](https://dash.applovin.com/account#keys), choose your Account-Keys, select the "Report Key".
+    On the [AppLovin Account-Keys page](https://dash.applovin.com/account#keys), your Api Key will be labled as "Report Key" on this page.
     
   6. Bundle Id 
  
-     From [AppLovin Manage Apps  ](https://dash.applovin.com/manage), choose your APP , select the "bundle id ".
+     From [AppLovin Manage Apps](https://dash.applovin.com/manage), choose your APP , select the "bundle id ".
 
   7. Account Currency
    
-     Get account settlement currency information on the [AppLovin Account Payment](https://dash.applovin.com/account#payments_history)  page, which is used primarily for exchange rate conversion in parameters
+     When the above account information is registered on the [AppLovin platform](https://www.applovin.com/login), the selected settlement currency is used for exchange rate conversion.

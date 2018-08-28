@@ -10,5 +10,5 @@
 
 3.  账号币种
 
-    在[Facebook 平台](https://developers.facebook.com/)，注册以上账户信息时，选择的结算币种，用于汇率转换。
+    在[Facebook 平台](https://developers.facebook.com/)注册以上账户信息时选择的结算币种，用于汇率转换。
 
