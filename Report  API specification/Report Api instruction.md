@@ -109,9 +109,9 @@ After verification is approved, developers need to pass 3 parameters in their re
 Sample:
 
 ```json
-    {  
+  {  
     error: "",  
-     data: [  
+    data: [  
        {  
         "app_name": "hello",  
         "app_uuid": "testtest10241024",  
@@ -119,8 +119,8 @@ Sample:
         "status": 1  
        },  
        ... 
-      ]  
-    }
+    ]  
+  }
 ```
 
 **Data field instruction:**
@@ -155,18 +155,18 @@ Sample:
 
 Sample:
 ```json
-    {  
+  {  
     error: "",  
-      data: [  
+    data: [  
         {  
          "slot_name":"xxxx_banner_default",
          "slot_uuid": "xxxxxxxx",  
          "ad_type": 1,  
          "status": 5  
-      },  
-      ...
-      ]  
-     }
+     },  
+     ...
+    ]  
+  }
 ```
 **Data field instruction:**
 
