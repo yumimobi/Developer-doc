@@ -154,7 +154,7 @@
     error: "",  
       data: [  
        {  
-          "slot_name":"xxxx_banner_default",
+          "slot_name": "xxxx_banner_default",
           "slot_uuid": "xxxxxxxx",  
           "ad_type": 1,  
           "status": 5  
@@ -221,8 +221,8 @@
            "income": 666, 
            "slot_uuid": "g4fn4hv3", 
            "ad_plat_name": "yumi", 
-           "country_zh": "中国"
-           "country_en": "China"
+           "country_zh": "中国",
+           "country_en": "China",
            "country_code": "CN"
       }  
      ]  
@@ -284,10 +284,10 @@
 ```json
     {  
      error: "",  
-     data:[   
+     data: [   
        {  
          "date": "2018-01-01"  
-         "ad_type":2,  
+         "ad_type": 2,  
          "request": 666,  
          "exposure": 666,  
          "click": 666,  
@@ -297,8 +297,8 @@
          "income": 666, 
          "slot_uuid": "g4fn4hv3", 
          "ad_plat_name": "yumi", 
-         "country_zh": "中国"
-         "country_en": "China"
+         "country_zh": "中国",
+         "country_en": "China",
          "country_code": "CN"
        }  
       ]  
