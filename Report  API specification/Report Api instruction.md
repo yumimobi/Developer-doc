@@ -217,7 +217,10 @@ Sample:
          "click_rate": "100%",  
          "ecpm": "10",  
          "cpc": "1",  
-         "income": 666  
+         "income": 666,
+         "slot_name": "xxxx_banner_default", 
+         "ad_plat_name": "yumi", 
+         "country": "China"
        }  
      ]  
     }
@@ -235,7 +238,9 @@ Data field instructio:
 |ecpm | string | ecpm |
 | cpc | string | CPC |
 | income | float | Income,Type of currency is consistent with user's set up. |
-
+| slot_name | string | SLot Name. |
+| ad_plat_name | string | Advertising platform name. |
+| country | string | Country Name. |
 
 ## 5、Partner-Application Statistics Interface
 
@@ -283,7 +288,10 @@ Sample:
         "click_rate": "100%",  
         "ecpm": "10" ,   
         "cpc": "1",  
-        "income": 666   
+        "income": 666,
+        "slot_name": "xxxx_banner_default", 
+        "ad_plat_name": "yumi", 
+        "country": "China"
       }  
      ]  
     }
@@ -301,6 +309,9 @@ Data field instructio:
 | ecpm | string | ecpm |
 |  cpc | string | CPC |
 | income | float |  Income,Type of currency is consistent with user's set up.|
+| slot_name | string | SLot Name. |
+| ad_plat_name | string | Advertising platform name. |
+| country | string | Country Name. |
  
 © 2015 ~ 2017 Power By YUMIMOBI [Developer Agreement](http://doc.ssp.yumimobi.com/index.php/AppList/agreement)
 
