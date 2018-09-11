@@ -218,9 +218,11 @@ Sample:
          "ecpm": "10",  
          "cpc": "1",  
          "income": 666,
-         "slot_name": "xxxx_banner_default", 
+         "slot_name": "xxxxxxxx", 
          "ad_plat_name": "yumi", 
-         "country": "China"
+         "country_zh": "中国"
+         "country_en": "China"
+         "country_code": "CN"
        }  
      ]  
     }
@@ -238,9 +240,11 @@ Data field instructio:
 |ecpm | string | ecpm |
 | cpc | string | CPC |
 | income | float | Income,Type of currency is consistent with user's set up. |
-| slot_name | string | SLot Name. |
+| slot_uuid | string | Slot id. |
 | ad_plat_name | string | Advertising platform name. |
-| country | string | Country Name. |
+| country_zh | string | National Chinese name. |
+| country_en | string | National English name. |
+| country_code | string | Country code. |
 
 ## 5、Partner-Application Statistics Interface
 
@@ -289,9 +293,11 @@ Sample:
         "ecpm": "10" ,   
         "cpc": "1",  
         "income": 666,
-        "slot_name": "xxxx_banner_default", 
+        "slot_name": "xxxxxxxx", 
         "ad_plat_name": "yumi", 
-        "country": "China"
+        "country_zh": "中国"
+        "country_en": "China"
+        "country_code": "CN"
       }  
      ]  
     }
@@ -309,9 +315,11 @@ Data field instructio:
 | ecpm | string | ecpm |
 |  cpc | string | CPC |
 | income | float |  Income,Type of currency is consistent with user's set up.|
-| slot_name | string | SLot Name. |
+| slot_uuid | string | Slot id. |
 | ad_plat_name | string | Advertising platform name. |
-| country | string | Country Name. |
+| country_zh | string | National Chinese name. |
+| country_en | string | National English name. |
+| country_code | string | Country code. |
  
 © 2015 ~ 2017 Power By YUMIMOBI [Developer Agreement](http://doc.ssp.yumimobi.com/index.php/AppList/agreement)
 

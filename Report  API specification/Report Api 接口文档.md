@@ -215,9 +215,11 @@ data字段说明:
            "ecpm": "10",  
            "cpc": "1",  
            "income": 666, 
-           "slot_name": "xxxx_banner_default", 
+           "slot_uuid": "xxxxxxxx", 
            "ad_plat_name": "yumi", 
-           "country": "中国"
+           "country_zh": "中国"
+           "country_en": "China"
+           "country_code": "CN"
       }  
      ]  
     }
@@ -235,9 +237,11 @@ data字段说明:
 |ecpm | string | ecpm |
 | cpc | string | CPC |
 | income | float | 收益,货币的类型与用户设置的货币类型一致. |
-| slot_name | string | 广告位名称. |
+| slot_uuid | string | 广告位ID. |
 | ad_plat_name | string | 平台名称. |
-| country | string | 国家名称. |
+| country_zh | string | 国家中文名称. |
+| country_en | string | 国家英文名称. |
+| country_code | string | 国家代码. |
 
 
 ## 5、合作方-应用统计接口
@@ -286,9 +290,11 @@ data字段说明:
          "ecpm": "10" ,   
          "cpc": "1",  
          "income": 666, 
-         "slot_name": "xxxx_banner_default", 
+         "slot_uuid": "xxxxxxxx", 
          "ad_plat_name": "yumi", 
-         "country": "中国"
+         "country_zh": "中国"
+         "country_en": "China"
+         "country_code": "CN"
        }  
       ]  
      }
@@ -306,9 +312,11 @@ data字段说明:
 | ecpm | string | ecpm |
 |  cpc | string | CPC |
 | income | float | 收益,货币的类型与用户设置的货币类型一致. |
-| slot_name | string | 广告位名称. |
+| slot_uuid | string | 广告位ID. |
 | ad_plat_name | string | 平台名称. |
-| country | string | 国家名称. |
+| country_zh | string | 国家中文名称. |
+| country_en | string | 国家英文名称. |
+| country_code | string | 国家代码. |
  
 © 2015 ~ 2017 Power By [玉米平台开发者协议](http://doc.ssp.yumimobi.com/index.php/AppList/agreement)
 
