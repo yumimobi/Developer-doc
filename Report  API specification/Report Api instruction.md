@@ -290,7 +290,7 @@ Sample:
     data:[   
       {  
         "date": "2018-01-01"  
-        "ad_type":2,  
+        "ad_type": 2,  
         "request": 666,  
         "exposure": 666,  
         "click": 666,  
