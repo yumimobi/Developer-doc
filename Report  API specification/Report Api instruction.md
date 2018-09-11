@@ -118,7 +118,7 @@ Sample:
         "os": 1,  
         "status": 1  
        },  
-        cell2  
+       ... 
       ]  
     }
 ```
@@ -225,8 +225,8 @@ Sample:
          "income": 666,
          "slot_uuid": "g4fn4hv3", 
          "ad_plat_name": "yumi", 
-         "country_zh": "中国"
-         "country_en": "China"
+         "country_zh": "中国",
+         "country_en": "China",
          "country_code": "CN"
        }  
      ]  
@@ -241,15 +241,15 @@ Sample:
 |request|int | Amount of requests|
 |exposure |int| Amount of impressions  |
 | click| int | Amount of clicks|
-| click_rate  | string |Click rate, rounded to the nearest hundredth, theoretical maximum value is 100. |
+| click_rate  | string |Click rate, rounded to the nearest hundredth, theoretical maximum value is 100 |
 |ecpm | string | eCPM |
 | cpc | string | CPC |
-| income | float | Income, type of currency is consistent with user's set up. |
-| slot_uuid | string | Slot ID. |
-| ad_plat_name | string | Advertising platform name. |
-| country_zh | string | Country name in Chinese. |
-| country_en | string | Country name in English. |
-| country_code | string | Country code. |
+| income | float | Income, type of currency is consistent with user's set up |
+| slot_uuid | string | Slot ID |
+| ad_plat_name | string | Advertising platform name |
+| country_zh | string | Country name in Chinese |
+| country_en | string | Country name in English |
+| country_code | string | Country code |
 
 ## 5、Partner - Application Statistics Interface
 
@@ -289,19 +289,19 @@ Sample:
     error: "",  
     data:[   
       {  
-        "date": "2018-01-01"  
+        "date": "2018-01-01", 
         "ad_type": 2,  
         "request": 666,  
         "exposure": 666,  
         "click": 666,  
         "click_rate": "100%",  
-        "ecpm": "10" ,   
+        "ecpm": "10",   
         "cpc": "1",  
         "income": 666,
         "slot_uuid": "g4fn4hv3", 
         "ad_plat_name": "yumi", 
-        "country_zh": "中国"
-        "country_en": "China"
+        "country_zh": "中国",
+        "country_en": "China",
         "country_code": "CN"
       }  
      ]  
@@ -317,19 +317,14 @@ Sample:
 | request  | int | Amount of requests |
 | exposure  | int | Amount of impressions |
 | click | int | Amount of clicks |
-| click_rate  | string |  Click rate, rounded to the nearest hundredth, theoretical maximum value is 100.|
+| click_rate  | string |  Click rate, rounded to the nearest hundredth, theoretical maximum value is 100|
 | ecpm | string | eCPM |
 |  cpc | string | CPC |
-| income | float |  Income, type of currency is consistent with user's set up.|
-| slot_uuid | string | Slot ID. |
-| ad_plat_name | string | Advertising platform name. |
-| country_zh | string | Country name in Chinese. |
-| country_en | string | Country name in English. |
-| country_code | string | Country code. |
+| income | float |  Income, type of currency is consistent with user's set up|
+| slot_uuid | string | Slot ID|
+| ad_plat_name | string | Advertising platform name |
+| country_zh | string | Country name in Chinese |
+| country_en | string | Country name in English |
+| country_code | string | Country code |
  
-© 2015 ~ 2018 Power By YUMIMOBI [Developer Agreement](http://doc.ssp.yumimobi.com/index.php/AppList/agreement)
-
-
-
-
-
+© 2015 ~ 2018 Power By YUMIMOBI [Developer Agreement](https://www.yumimobi.com/en/service.html)
