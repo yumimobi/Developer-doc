@@ -112,8 +112,7 @@
           "app_uuid": "testtest10241024",  
           "os": 1,  
           "status": 1         
-       },  
-       ...  
+       }  
     ]  
  }
 ```
@@ -158,8 +157,7 @@
        "slot_uuid": "xxxxxxxx",  
        "ad_type": 1,  
        "status": 5  
-     },  
-     ...
+     }
     ]  
  }
 ```
