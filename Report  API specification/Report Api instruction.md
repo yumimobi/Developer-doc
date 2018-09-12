@@ -110,15 +110,14 @@ Sample:
 
 ```json
   {  
-    error: "",  
-    data: [  
+    "error": "",  
+    "data": [  
        {  
         "app_name": "hello",  
         "app_uuid": "testtest10241024",  
         "os": 1,  
         "status": 1  
-       },  
-       ... 
+       }
     ]  
   }
 ```
@@ -156,15 +155,14 @@ Sample:
 Sample:
 ```json
   {  
-    error: "",  
-    data: [  
+    "error": "",  
+    "data": [  
         {  
          "slot_name":"xxxx_banner_default",
          "slot_uuid": "xxxxxxxx",  
          "ad_type": 1,  
          "status": 5  
-     },  
-     ...
+        }
     ]  
   }
 ```
@@ -211,8 +209,8 @@ Sample:
 Sample:
 ```json
     {  
-    error: "",  
-    data: [  
+    "error": "",  
+    "data": [  
       {  
          "date": "2018-01-01",  
          "ad_type": 2,  
@@ -286,8 +284,8 @@ About date：
 Sample:
 ```json
     {  
-    error: "",  
-    data:[   
+    "error": "",  
+    "data": [   
       {  
         "date": "2018-01-01", 
         "ad_type": 2,  
