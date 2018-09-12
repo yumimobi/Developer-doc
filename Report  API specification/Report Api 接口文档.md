@@ -105,8 +105,8 @@
 示例:
 ```json  
  {  
-    error: "", 
-    data: [  
+    "error": "", 
+    "data": [  
       {  
           "app_name": "你好",  
           "app_uuid": "testtest10241024",  
@@ -151,8 +151,8 @@
 示例:
 ```json
  {  
-    error: "",  
-    data: [  
+    "error": "",  
+    "data": [  
      {  
        "slot_name": "xxxx_banner_default",
        "slot_uuid": "xxxxxxxx",  
@@ -207,8 +207,8 @@
 示例:
 ```json
     {  
-     error: "",  
-     data: [  
+     "error": "",  
+     "data": [  
        {  
            "date": "2018-01-01",  
            "ad_type": 2,  
@@ -283,8 +283,8 @@
 示例:
 ```json
     {  
-     error: "",  
-     data: [   
+     "error": "",  
+     "data": [   
        {  
          "date": "2018-01-01", 
          "ad_type": 2,  
