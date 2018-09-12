@@ -30,7 +30,7 @@ After verification is approved, developers need to pass 3 parameters in their re
 | Parameter             | Description     |
 | -----------    |   ---------- | 
 | signature  |   Encrypted signature, combining developer's token parameters, Unix timestamp and nounce in requests                     |
-|  timestamp     | Unix timestamp eg. 1534305711 [Reference address](https://tool.lu/timestamp/)   |
+|  timestamp     | Unix timestamp eg. 1534305711 [Reference address](http://timestamp.online/)   |
 |  nonce         |  Random number, should be a positive integer     |
 
 
