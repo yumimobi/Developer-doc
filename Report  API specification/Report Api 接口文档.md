@@ -104,18 +104,18 @@
 
 示例:
 ```json  
-    {  
+ {  
     error: "", 
-      data: [  
-        {  
-            "app_name": "你好",  
-             "app_uuid": "testtest10241024",  
-             "os": 1,  
-            "status": 1  
-         },  
-         ...  
-       ]  
-     }
+    data: [  
+      {  
+          "app_name": "你好",  
+          "app_uuid": "testtest10241024",  
+          "os": 1,  
+          "status": 1         
+       },  
+       ...  
+    ]  
+ }
 ```
 
 **data字段说明:**
@@ -150,18 +150,18 @@
 
 示例:
 ```json
-    {  
+ {  
     error: "",  
-      data: [  
-       {  
-          "slot_name": "xxxx_banner_default",
-          "slot_uuid": "xxxxxxxx",  
-          "ad_type": 1,  
-          "status": 5  
-        },  
-        ...
-     ]  
-    }
+    data: [  
+     {  
+       "slot_name": "xxxx_banner_default",
+       "slot_uuid": "xxxxxxxx",  
+       "ad_type": 1,  
+       "status": 5  
+     },  
+     ...
+    ]  
+ }
 ```
 
 **data字段说明:**
