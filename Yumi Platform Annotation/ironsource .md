@@ -13,6 +13,6 @@
     his is available on the[Ironsource My Account -Reporting API Details page](https://platform.ironsrc.com/partners/account/apiDetails)  page.
 
 
-5. Account Currency
+5. Currency
 
    When the above account information is registered on the [Ironsource platform](https://platform.supersonic.com/partners/), the selected settlement currency is used for exchange rate conversion.

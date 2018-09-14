@@ -16,9 +16,9 @@
 
      [Mintegral](https://www.mintegral.net/) MSSP business cooperation manager in line to the platform. This parameter can also be set to 1.
 
-5. Account
+5. Email
 
-     You will find your Account  on the [Mintegral Account-Company Info page](https://static.mintegral.net/account). Your Account will be labled as "Email" on this page.
+     You will find your Account  on the [Mintegral Account-Company Info page](https://static.mintegral.net/account). You will find your Email on this page.
     
 
 6. Skey
@@ -29,7 +29,6 @@
     
      You will find your Secrect on the [Mintegral Account-Company Info page](https://static.mintegral.net/account).
 
-8. Account Currency
-
-    
-    On the  [Mintegral Account -Payment Info page](https://static.mintegral.net/account/payment), your Account Currency will be labled as "Payment Currency" on this page.
+8. Payment Currency
+  
+    On the  [Mintegral Account -Payment Info page](https://static.mintegral.net/account/payment), select the "Payment Currency".

@@ -12,6 +12,6 @@
 4.  Secret Key      
  在[Ironsource My Account -Reporting API Details](hhttps://platform.ironsrc.com/partners/account/apiDetails)页面获取Secret Key参数。
 
-5. 账号币种
+5. 结算货币
 
    在[Ironsource 平台](https://platform.supersonic.com/partners/)注册以上账户信息时选择的结算币种，用于汇率转换。
