@@ -94,7 +94,7 @@ After verification is approved, developers need to pass 3 parameters in their re
 
 | url | method     |    Description  |
 | ------| -------|     ------  |
-|http://im.yumimobi.com/report_api/developer/{devId}/app| GET |devId is developer id |
+|https://im.yumimobi.com/report_api/developer/{devId}/app| GET |devId is developer id |
 
 
 ### 2.3 Request information
@@ -141,7 +141,7 @@ Sample:
 
 |  url     |   method   | Description     |
 |------|  ------ | ------|
-| http://im.yumimoi.com/report_api/developer/{devId}/app/{cornId} |GET  |   devId is developer id, cornId is the app id in Applist Interface |
+| https://im.yumimoi.com/report_api/developer/{devId}/app/{cornId} |GET  |   devId is developer id, cornId is the app id in Applist Interface |
 
 ### 3.3 Request information
 
@@ -186,7 +186,7 @@ Sample:
 
 | url    |  method | Description   |
 |------   |  ------  |------ |
-|http://yumimobi.com/report_api/developer/{devId}/app/{cornId}/stat  | GET   | devId is developer id, cornId is the app id in Applist Interface |
+|https://im.yumimobi.com/report_api/developer/{devId}/app/{cornId}/stat  | GET   | devId is developer id, cornId is the app id in Applist Interface |
 
 ### 4.3  Request Information
 
@@ -259,7 +259,7 @@ Sample:
 
 | url | method | Description |
 | ------ | ----- | ------ |
-|http://im.yumimobi.com/report_api/partner/{partnerId}/app/{cornId}/stat  | GET | partnerId is partner id, cornId is the app id in Applist Interface |
+|https://im.yumimobi.com/report_api/partner/{partnerId}/app/{cornId}/stat  | GET | partnerId is partner id, cornId is the app id in Applist Interface |
 
 
 ### 5.3 Request Information
