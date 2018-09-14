@@ -8,7 +8,7 @@
 
     获取此参数，点击[参考地址](https://developers.facebook.com/docs/audience-network/reporting-api/systemuser)。
 
-3.  账号币种
+3.  结算货币
 
     在[Facebook 平台](https://developers.facebook.com/)注册以上账户信息时选择的结算币种，用于汇率转换。
 

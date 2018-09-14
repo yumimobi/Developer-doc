@@ -9,7 +9,7 @@
    From [Inmobi MONETIZE Dashboard](https://www.inmobi.com/portal/#properties), select your application, find the placement ID under Placements.
 
 
-3. 	 Account   
+3. 	Email  
  From [Inmobi platform](https://www.inmobi.com), information used for login.
 
 4. 	 Password     
@@ -19,6 +19,6 @@
 
     From [InMobi Account Settings -API Key](https://www.inmobi.com/portal/#user/apiKey)，email [Inmobi](https://www.inmobi.com/portal/#user/apiKey) and request an API Key.
 
-6. Account Currency
+6. Currency
 
-   Find the settlement currency on the [Inmobi Funds page](https://www.inmobi.com/portal/#funds). When the above account information is registered, the selected settlement currency is used for exchange rate conversion.
+   Find the settlement currency on the [Inmobi Earnings page](https://www.inmobi.com/portal/#earnings). When the above account information is registered, the selected settlement currency is used for exchange rate conversion.

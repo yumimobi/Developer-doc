@@ -5,12 +5,12 @@
 2. Placement ID 
 
    From [UnityAds Operate-Project](https://operate.dashboard.unity3d.com/organizations/14568570411381/projects) , choose your app.  Your placement  ID will be listed in Placements under Monetization.
-3. Account
+3. Email
 
-    From [UnityAds My Account-Settings](https://id.unity.com/en/account/edit), information used for login. Your Account will be labled as "Email" on this page.
+    From [UnityAds My Account-Settings](https://id.unity.com/en/account/edit), information used for login. You will find your Email on this page.
 4. API Key
 
    Your API key is found on the API keys tab of the [UnityAds Operate-Ad Data Export](https://operate.dashboard.unity3d.com/organizations/14568570411381/apikey).
-5.  Account Currency
+5.  Currency
 
     Find the settlement currency on the [UnityAds Operate-Invoicing page](https://operate.dashboard.unity3d.com/organizations/14568570411381/invoicing). When the above account information is registered, the selected settlement currency is used for exchange rate conversion.

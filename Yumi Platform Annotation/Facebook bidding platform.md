@@ -1,13 +1,12 @@
-###   [Facebook](https://developers.facebook.com/)
+###   [Facebook bidding](https://developers.facebook.com/)
 
 1. APP ID
 
-    Find  your Placement ID by choosing your app, selecting "Audience Network" in the left sidebar, then select the "APP ID".
+    From [Facebook -My Apps page](https://developers.facebook.com/apps/) find your APP ID by choosing your app.
 
 2. Placement ID
 
-   Find  your Placement ID by choosing your app, selecting "Audience Network" in the left sidebar, then select the "Placements" tab at the top.
-   
+   From [Facebook -My Apps page](https://developers.facebook.com/apps/) find  your Placement ID by choosing your app, selecting "Audience Network" in the left sidebar, then select the "Placements" tab at the top.
 3.  System User Token
 
     Learn how to generate [System User Token](https://developers.facebook.com/docs/audience-network/reporting-api/systemuser) here.
