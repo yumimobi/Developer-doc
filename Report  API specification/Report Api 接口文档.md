@@ -90,7 +90,7 @@
 
 | url | method     |    说明   |
 | ------| -------|     ------  |
-|http://im.yumimobi.com/report_api/developer/{devId}/app| GET |devId 为开发者id |
+|https://im.yumimobi.com/report_api/developer/{devId}/app| GET |devId 为开发者id |
 
 
 ### 2.3 请求信息
@@ -136,7 +136,7 @@
 
 |  url     |   method   | 说明     |
 |------|  ------ | ------|
-| http://im.yumimobi.com/report_api/developer/{devId}/app/{cornId} |GET  |  devId 为开发者id，cornId 为应用列表接口中的应用id，即app_uuid  |
+| https://im.yumimobi.com/report_api/developer/{devId}/app/{cornId} |GET  |  devId 为开发者id，cornId 为应用列表接口中的应用id，即app_uuid  |
 
 ### 3.3 请求信息
 
@@ -181,7 +181,7 @@
 
 | url    |  method | 说明   |
 |------   |  ------  |------ |
-|http://im.yumimobi.com/report_api/developer/{devId}/app/{cornId}/stat  | GET   | devId 为开发者id，cornId 为应用列表接口中的应用id，即app_uuid |
+|https://im.yumimobi.com/report_api/developer/{devId}/app/{cornId}/stat  | GET   | devId 为开发者id，cornId 为应用列表接口中的应用id，即app_uuid |
 
 
 ### 4.3 请求信息
@@ -257,7 +257,7 @@
 
 | url | method | 说明 |
 | ------ | ----- | ------ |
-|http://im.yumimobi.com/report_api/partner/{partnerId}/app/{cornId}/stat  | GET |  partnerId 为合作方id，cornId 为应用列表接口中的应用id，即app_uuid|
+|https://im.yumimobi.com/report_api/partner/{partnerId}/app/{cornId}/stat  | GET |  partnerId 为合作方id，cornId 为应用列表接口中的应用id，即app_uuid|
 
 
 ### 5.3 请求信息
