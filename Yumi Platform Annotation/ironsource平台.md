@@ -10,7 +10,7 @@
  在[Ironsource My Account -Reporting API Details](https://platform.ironsrc.com/partners/account/apiDetails)页面获取Access Key 参数。
 
 4.  Secret Key      
- 在[Ironsource My Account -Reporting API Details](hhttps://platform.ironsrc.com/partners/account/apiDetails)页面获取Secret Key参数。
+ 在[Ironsource My Account -Reporting API Details](https://platform.ironsrc.com/partners/account/apiDetails)页面获取Secret Key参数。
 
 5. 结算货币
 
