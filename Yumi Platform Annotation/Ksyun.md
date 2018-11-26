@@ -5,7 +5,7 @@
 
 You can find your App ID on the [Ksyun Resoure -Medium page](http://ssp2.ksyun.com/#/resource/media) which is labled as "媒体管理".
 
-2.Placemengt ID
+2.Placemengt ID
 
 You can find your Placement ID on the [Ksyun Resource -Ad page](http://ssp2.ksyun.com/#/resource/ad) which is labled as "广告位管理".
 
