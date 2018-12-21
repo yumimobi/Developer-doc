@@ -506,10 +506,6 @@ Sample of response:
         <td >Strategy Game</td>
     </tr>
     <tr>
-        <td >66</td>  
-        <td >Online Game</td>
-    </tr>
-    <tr>
         <td >67</td>  
         <td >Arcade Game</td>
     </tr>
@@ -548,5 +544,13 @@ Sample of response:
     <tr>
         <td >76</td>  
         <td >Child</td>
+    </tr>
+    <tr>
+        <td >77</td>  
+        <td >Sports</td>
+    </tr>
+    <tr>
+        <td >78</td>  
+        <td >Music</td>
     </tr>
 </table>
