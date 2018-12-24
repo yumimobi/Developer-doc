@@ -25,8 +25,8 @@ After verification is approved, developers need to pass 3 parameters in their re
 | Parameters | Description |
 | ----- | ----- |
 | signature | Encrypted signature, combining developer's key parameters with timestamp and nonce in requests|
-| timestamp | Timestamp |
-| nonce | Random number |
+| timestamp | Unix timestamp eg. 1534305711 [reference address](http://timestamp.online/) |
+| nonce | Random number, should be a positive integer |
 
 
 Encryption/examination process:
