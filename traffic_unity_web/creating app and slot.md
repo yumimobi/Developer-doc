@@ -547,10 +547,10 @@ Sample of response:
     </tr>
     <tr>
         <td >77</td>  
-        <td >Sports</td>
+        <td >Sports Game</td>
     </tr>
     <tr>
         <td >78</td>  
-        <td >Music</td>
+        <td >Music Game</td>
     </tr>
 </table>
