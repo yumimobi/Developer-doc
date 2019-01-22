@@ -22,7 +22,7 @@
 
   6. Bundle Id 
      
-     在[AppLovin Manage Apps](https://dash.applovin.com/manage)页面，获取包名（Bundle Id ）。
+     在[AppLovin Manage Apps](https://dash.applovin.com/manage)页面，获取包名（Bundle Id ）,。
  
   7. 结算货币
 
