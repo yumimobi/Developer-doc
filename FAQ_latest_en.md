@@ -2,11 +2,11 @@
 
 - [YumiMediationSDK Q&A](#yumimediationsdk-qa)
     - [System Operation](#system-operation)
-        - [Can I  test my app when it is under review?](#can-i--test-my-app-when-it-is-under-review)
+        - [Can I  test my app when the app status is Pending Approval?](#can-i--test-my-app-when-the-app-status-is-pending-approval)
         - [How to pause monetization?](#how-to-pause-monetization)
         - [Why there's a popup saying "The ad bit KEY has been used" when I am adding or modifying a configuration?](#why-theres-a-popup-saying-the-ad-bit-key-has-been-used-when-i-am-adding-or-modifying-a-configuration)
     - [Statistics](#statistics)
-        - [When will you update the ad data and the revenue data?](#when-will-you-update-the-ad-data-and-the-revenue-data)
+        - [Can I see a real-time ad data and revenue data?](#can-i-see-a-real-time-ad-data-and-revenue-data)
         - [The data or revenue did not update on time. What should I do?](#the-data-or-revenue-did-not-update-on-time-what-should-i-do)
         - [Why does eCPM fluctuate?](#why-does-ecpm-fluctuate)
         - [What charging method do you use?](#what-charging-method-do-you-use)
@@ -44,12 +44,12 @@
 
 # YumiMediationSDK Q&A
 ## System Operation
-### Can I  test my app when it is under review? 
+### Can I  test my app when the app status is Pending Approval? 
 You can not test your app until it passes the review, but you can use test ID (Click to view [iOS test ID](https://github.com/yumimobi/YumiMediationSDKDemo-iOS/blob/master/normalDocuments/YumiMediationSDK%20for%20iOS(en).md#TEST-ID), [Android test ID](https://github.com/yumimobi/YumiMediationSDKDemo-Android/blob/master/docs/YumiMediationSDK%20for%20Android(en).md#52-test-ad-slot)) to test. The test ID will not generate incomes. 
   ![pending](imgs/imgs/pending_en.png)
 
 ### How to pause monetization? 
-We provide status control of placements in our [Self-service System](https://ssp.yumimobi.com/?&oauth=dev_oauth#/app/appList/). To pause your placements' monetization, you need to switch off the status button in the Placements List. Please be noted that pausing the placement will affect your incomes immediately, so it is necessary to consider carefully before doing this.
+We provide status control of slots in our [Self-service System](https://ssp.yumimobi.com/?&oauth=dev_oauth#/app/appList/). To pause your slots' monetization, you need to switch off the status button in the Slots List. Please be noted that pausing the slot will affect your incomes immediately, so it is necessary to consider carefully before doing this.
   ![pause](imgs/imgs/adPlacements_en.png)
 
 ### Why there's a popup saying "The ad bit KEY has been used" when I am adding or modifying a configuration? 
@@ -58,7 +58,7 @@ The ad bit KEY of a network can only be configured to one app. Please make sure 
   ![has been used](imgs/imgs/haveBeenAdded_en.png)
   
 ## Statistics
-### When will you update the ad data and the revenue data? 
+### Can I see a real-time ad data and revenue data? 
 The ad data will be displayed in real-time (with about 2-3 hours delay). The revenue data will be updated at 16:30 on the next day.  
 
 ### The data or revenue did not update on time. What should I do?
