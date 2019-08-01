@@ -356,7 +356,7 @@ If there's no ad fill with your real networks' ID, we provide below test IDs whi
 |AdMob|For details, see in [AdMob Test Ad](https://developers.google.com/admob/android/test-ads)|||
 |Baidu|App ID：e866cfb0|adId: 2403633||
 |GDTMob|APP ID: 1101152570|placement ID: 3040652898151811||
-|IronSource|App Key: 7885d465|Instance Id: 0||
+|IronSource|App Key: 795dcbed|Instance Id: 0||
 |InMobi|APP ID: 5e7fc886f15e456e9451d4ec4857dfc2|Placement ID: 1451569890717||
 |IQzone|Placement ID: Qjd3TytYVllmRmhTYkp3Ri8yanVHTWNuUDBSSElmdXVoTkcyVTR0WkhRc054M0gv|||
 |UnityAds|Game ID: 1306584|Placement ID: video||
@@ -371,7 +371,7 @@ If there's no ad fill with your real networks' ID, we provide below test IDs whi
 |AdMob|For details, see in [AdMob Test Ad](https://developers.google.com/admob/android/test-ads)|||
 |Baidu|App ID：e866cfb0|adId: 5925490||
 |GDTMob|APP ID: 1101152570|placement ID: 5040942242835423||
-|IronSource|App Key: 7885d465|Instance Id: 0||
+|IronSource|App Key: 795dcbed|Instance Id: 0||
 |InMobi|APP ID: 5e7fc886f15e456e9451d4ec4857dfc2|Placement ID: 1509740596823|
 |IQzone|Placement ID: MFllRXhOZ1Nnbi9ycVQ2emRCVW1hdlI2SlZ2bzB4WVc4SWZFUUJCb0EzTW8xRXlw|||
 |UnityAds|Game ID: 1306584|Placement ID: rewardedVideo||
