@@ -25,14 +25,14 @@
 
 | 参数          | 描述     |
 | -----------    |   ---------- |
-| signature  |   加密签名，signature结合了开发者的token参数和请求中的timestamp参数、 nonce参数。      |
+| signature  |   加密签名，signature结合了开发者的秘钥参数和请求中的timestamp参数、 nonce参数。      |
 | timestamp     |  时间戳，比如：1534305711 [参考地址](https://tool.lu/timestamp/) |
 | nonce         |  随机数字，必须是正整数 |    
 
 
 **加密/校验流程如下：**
 
-1. 将token、timestamp、nonce三个参数进行字典序排序
+1. 将秘钥、timestamp、nonce三个参数进行字典序排序
 
 2. 将三个参数字符串拼接成一个字符串进行sha1加密
 
@@ -47,7 +47,7 @@
      $timestamp = $_GET["timestamp"];    
      $nonce = $_GET["nonce"];    
         
-     $token = TOKEN;     
+     $token = 秘钥;     
      $tmpArr = array($token, $timestamp, $nonce);     
      sort($tmpArr, SORT_STRING);     
      $tmpStr = implode( $tmpArr );  
@@ -90,14 +90,14 @@
 
 | url | method     |    说明   |
 | ------| -------|     ------  |
-|https://im.yumimobi.com/report_api/developer/{devId}/app| GET |devId 为开发者id |
+|https://im.yumimobi.com/report_api/developer/{devId}/app| GET |devId 为开发者ID |
 
 
 ### 2.3 请求信息
 
 |字段      |数据类型    | 说明      |
 |------    |  ------  | -------  |
-|{devId}   | string   | 位于url中，为开发者id |
+|{devId}   | string   | 位于url中，为开发者ID |
 
 
 ### 2.4 响应
@@ -142,7 +142,7 @@
 
 | 字段      | 数据类型  |  说明    |
 |------   |  ------  |  ------|
-|{devId}   | string  | 位于url中，为开发者id |
+|{devId}   | string  | 位于url中，为开发者ID |
 |{cornId} | string  | 位于url中，为应用id  |
 
 ### 3.4 响应
@@ -188,7 +188,7 @@
 
 | 字段     | 数据类型    | 说明    |
 |-----   |  -------- |  ----- |
-|{devId} |  string | 位于url中，为开发者id |
+|{devId} |  string | 位于url中，为开发者ID |
 |{cornId}  | string  |  位于url中，为应用id  |
 | start_date  | date | 开始日期，必选参数，格式为2018-01-01，闭区间 |
 | end_date|  date  | 结束日期，必选参数，格式为2018-01-01，闭区间 |
