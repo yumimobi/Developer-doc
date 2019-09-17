@@ -4,7 +4,7 @@
 ### 1.1 接入条件
 - 确保账号审核通过
 
-- [开发者自助系统](Https://ssp.yumimobi.com/?&oauth=dev_oauth)可直接获取开发者id和密钥。
+- [开发者自助系统](Https://ssp.yumimobi.com/?&oauth=dev_oauth)可直接获取开发者id和密钥
 
 - 该接口适用于2018年及以后产生的数据
 
