@@ -5,7 +5,7 @@
 
 - Please make sure of your account has activated.
 
-- You have got the Developer ID and Secret Key. If not, please contact at global@yumimobi.com for getting these.
+- The [Self-service System](Https://ssp.yumimobi.com/?&oauth=dev_oauth) gets the Developer ID and secret key directly.
 
 - This interface applies to data generated in 2018 and later.
 
