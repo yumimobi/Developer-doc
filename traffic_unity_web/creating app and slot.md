@@ -4,7 +4,7 @@
 
 - Please make sure of your account has activated.
 
-- You have got the Developer ID and Key. If not, please contact at global@yumimobi.com for getting these.
+- The [Self-service System](Https://ssp.yumimobi.com/?&oauth=dev_oauth) gets the Developer ID and secret key directly.
 
 ### 1.2 Interface Style
 
@@ -31,7 +31,7 @@ After verification is approved, developers need to pass 3 parameters in their re
 
 Encryption/examination process:
 
-    1. Sort token, timestamp and nonce in alphabetical order
+    1. Sort secret key, timestamp and nonce in alphabetical order
     
     2. Put the three parameter strings in one string to encrypt with sha1
     
@@ -49,8 +49,8 @@ The code sample of checking signature in Golang:
     }
     
     // check signature
-    func CheckSignatureRule(token, signature, timestamp, nonce string) bool {
-        tmp_arr := []string{token, timestamp, nonce}
+    func CheckSignatureRule(secret key, signature, timestamp, nonce string) bool {
+        tmp_arr := []string{secret key, timestamp, nonce}
         sort.Strings(tmp_arr)
         tmp_str := strings.Join(tmp_arr, "")
         signature_real := Sha1Encode(tmp_str)

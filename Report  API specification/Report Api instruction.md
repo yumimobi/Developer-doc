@@ -5,7 +5,7 @@
 
 - Please make sure of your account has activated.
 
-- You have got the Developer ID and token. If not, please contact at global@yumimobi.com for getting these.
+- The [Self-service System](Https://ssp.yumimobi.com/?&oauth=dev_oauth) gets the Developer ID and secret key directly.
 
 - This interface applies to data generated in 2018 and later.
 
@@ -29,7 +29,7 @@ After verification is approved, developers need to pass 3 parameters in their re
 
 | Parameter             | Description     |
 | -----------    |   ---------- | 
-| signature  |   Encrypted signature, combining developer's token parameters, Unix timestamp and nounce in requests                     |
+| signature  |   Encrypted signature, combining developer's Secret Key parameters, Unix timestamp and nounce in requests                     |
 |  timestamp     | Unix timestamp eg. 1534305711 [reference address](http://timestamp.online/)   |
 |  nonce         |  Random number, should be a positive integer     |
 
@@ -51,7 +51,7 @@ After verification is approved, developers need to pass 3 parameters in their re
      $timestamp = $_GET["timestamp"];    
      $nonce = $_GET["nonce"];    
           
-     $token = TOKEN;     
+     $token = Secret Key;     
      $tmpArr = array($token, $timestamp, $nonce);     
      sort($tmpArr, SORT_STRING);     
      $tmpStr = implode( $tmpArr );  
