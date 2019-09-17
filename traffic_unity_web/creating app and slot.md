@@ -4,7 +4,7 @@
 
 - Please make sure of your account has activated.
 
-- The [Self-service System](Https://ssp.yumimobi.com/?&oauth=dev_oauth) gets the Developer ID and secret key directly.
+- You can get the Developer ID and secret key in the [Self-service System](https://ssp.yumimobi.com/?&oauth=dev_oauth#/personalInfo/)
 
 ### 1.2 Interface Style
 
