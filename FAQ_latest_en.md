@@ -292,11 +292,11 @@ If there's no ad fill with your real networks' ID, we provide below test IDs whi
 |Chartboost|APP ID: 5b9b2c8d61c3570e1974a657|App Signature: 43b4fcee44c0ca91b13ca2724fb0df124377248f||
 |Facebook|Placement ID: YOUR_PLACEMENT_ID|||
 |GDTMob|APP ID: 1105344611|placement ID: 1050652855580392||
-|IronSource|App Key: 795c3935|Instance Id: 0||
+|IronSource|App Key: 8545d445|Instance Id: 0||
 |InMobi|APP ID: 4028cb8b2c3a0b45012c406824e800ba|Placement ID: 1446377525790||
 |IQzone|Placement ID: ZjlVZnFtcVFhQ1ZpWFpzS295MVBSQjlZWmNJUVQyekpEZllxbUhtU21yTFZwSzFz|||
 |Mintegral|APP ID: 92763|APP Key: 936dcbdd57fe235fd7cf61c2e93da3c4|Unit ID: 21321|
-|UnityAds|Game ID: 1306580|Placement ID: video||
+|UnityAds|Game ID: 14850|Placement ID: video||
 |Vungle|APP ID: 58a278a658c8501e56000127|Rewarded Placement Reference ID: IOSTEST26212|Interstitial Placement Reference ID: IOSTEST35317|
 |ZPLAYAds|APP ID: A650AB0D-7BFC-2A81-3066-D3170947C3DA|AdUnit ID: 0868EBC0-7768-40CA-4226-F9924221C8EB||
 |Inneractive|App ID: 102960|Spot ID: 150946||
@@ -305,20 +305,21 @@ If there's no ad fill with your real networks' ID, we provide below test IDs whi
 
 |Network|Key 1|Key 2|Key 3|
 |-|-|-|-|
-|AdColony|App ID: app9c683ac44fc741ba8d|Zone ID: vzac85989e4a1049d5ba||
+|AdColony|App ID: appbdee68ae27024084bb334a|Zone ID: vzf8e4e97704c4445c87504e||
 |AdMob|For details, see in [AdMob Test Ad](https://developers.google.com/admob/ios/test-ads)|||
 |Baidu|App ID：ccb60059|adId: 5889473||
 |BytedanceAds|应用 ID：5000546|代码位 ID：900546826||
 |Facebook|Placement ID: YOUR_PLACEMENT_ID|||
 |GDTMob|APP ID: 1105344611|placement ID: 8020744212936426||
-|IronSource|App Key: 795c3935|Instance Id: 0||
+|IronSource|App Key: 8545d445|Instance Id: 0||
 |InMobi|APP ID: f6af3e7b093545229fa1aa83cd0f0b59|Placement ID: 1507418095118||
 |IQzone|Placement ID: cnlWVXNOUXliczRPSlBOWjQ5dllMVTd1dlVMTEZtK1ZKWkZ1dTJVVkFvdHlpenh6|||
-|Mintegral|APP ID: 92763|APP Key: 936dcbdd57fe235fd7cf61c2e93da3c4|Unit ID: 21321|
-|UnityAds|Game ID: 1306580|Placement ID: rewardedVideo||
+|Tapjoy|SDK Key: E7CuaoUWRAWdz_5OUmSGsgEBXHdOwPa8de7p4aseeYP01mecluf-GfNgtXlF| Placement: video_unit|
+|Mintegral|APP ID: 92763|APP Key: 936dcbdd57fe235fd7cf61c2e93da3c4|Unit ID: 21319|
+|UnityAds|Game ID: 14850|Placement ID: rewardedVideo||
 |Vungle|APP ID: 58a278a658c8501e56000127|Rewarded Placement Reference ID: IOSTEST26212|Interstitial Placement Reference ID: IOSTEST35317|
 |ZPLAYAds|APP ID: A650AB0D-7BFC-2A81-3066-D3170947C3DA|AdUnit ID: BAE5DAAC-04A2-2591-D5B0-38FA846E45E7||
-|Inneractive|App ID: 102960|Spot ID: 150951||
+|Inneractive|App ID: 110038|Spot ID: 199508||
 
 4. Native
 
@@ -334,6 +335,7 @@ If there's no ad fill with your real networks' ID, we provide below test IDs whi
 
 |Network|Key 1|Key 2|
 |-|-|-|
+|AdMob|For details, see in [AdMob Test Ad](https://developers.google.com/admob/ios/test-ads)|
 |Baidu|App ID：ccb60059|adId: 2058492|
 |BytedanceAds|应用 ID：5000546|代码位 ID：800546808|
 |GDTMob|APP ID: 1105344611|placement ID: 9040714184494018|
@@ -345,6 +347,8 @@ If there's no ad fill with your real networks' ID, we provide below test IDs whi
 |-|-|-|-|
 |AdMob|For details, see in [AdMob Test Ad](https://developers.google.com/admob/android/test-ads)|||
 |Baidu|App ID：e866cfb0|adId: 2015351||
+|BytedanceAds|应用ID：5001121|代码位ID：901121987|
+|Facebook|Placement ID: YOUR_PLACEMENT_ID|
 |GDTMob|APP ID: 1101152570|placement ID: 4080052898050840||
 |IQzone|Placement ID: UkJ1RVVoQmxOQkdub0RaWFFoVjVYNTRHRHVEQlJycWVacEZBQnppbitZdzEwcThY|||
 
@@ -355,27 +359,30 @@ If there's no ad fill with your real networks' ID, we provide below test IDs whi
 |-|-|-|-|
 |AdMob|For details, see in [AdMob Test Ad](https://developers.google.com/admob/android/test-ads)|||
 |Baidu|App ID：e866cfb0|adId: 2403633||
+|BytedanceAds|应用ID：5001121|代码位ID：901121725|
+|Facebook|Placement ID: YOUR_PLACEMENT_ID|
 |GDTMob|APP ID: 1101152570|placement ID: 3040652898151811||
-|IronSource|App Key: 795dcbed|Instance Id: 0||
-|InMobi|APP ID: 5e7fc886f15e456e9451d4ec4857dfc2|Placement ID: 1451569890717||
+|IronSource|App Key: 85460dcd|Instance Id: 0||
 |IQzone|Placement ID: Qjd3TytYVllmRmhTYkp3Ri8yanVHTWNuUDBSSElmdXVoTkcyVTR0WkhRc054M0gv|||
+|Mintegral|APP ID:92762 |APP Key:936dcbdd57fe235fd7cf61c2e93da3c4 	 |Unit ID:21312 |
 |UnityAds|Game ID: 1306584|Placement ID: video||
-|Vungle|APP ID: 58a2794244dfb6ec5700028b|Rewarded Placement Reference ID: ANDROID03809|Interstitial Placement Reference ID: ANDROID32526|
 |ZPLAYAds|APP ID: 5C5419C7-A2DE-88BC-A311-C3E7A646F6AF|AdUnit ID: 19393189-C4EB-3886-60B9-13B39407064E||
 
 3. Rewarded Video
 
 |Network|Key 1|Key 2|Key 3|
 |-|-|-|-|
-|AdColony|App ID: appdf48548d294448cab5|Zone ID: vz983a8c6ac1b64ea396|
+|AdColony|App ID: app185a7e71e1714831a49ec7|Zone ID: vz1fd5a8b2bf6841a0a4b826|
 |AdMob|For details, see in [AdMob Test Ad](https://developers.google.com/admob/android/test-ads)|||
 |Baidu|App ID：e866cfb0|adId: 5925490||
-|GDTMob|APP ID: 1101152570|placement ID: 5040942242835423||
-|IronSource|App Key: 795dcbed|Instance Id: 0||
-|InMobi|APP ID: 5e7fc886f15e456e9451d4ec4857dfc2|Placement ID: 1509740596823|
+|BytedanceAds|应用ID：5001121|代码位ID：901121365|
+|Facebook|Placement ID: YOUR_PLACEMENT_ID|
+|GDTMob|APP ID: 1101152570|placement ID: 2090845242931421||
+|IronSource|App Key: 85460dcd|Instance Id: 0||
+|Inneractive|App ID: 110039|Spot ID: 199510|
 |IQzone|Placement ID: MFllRXhOZ1Nnbi9ycVQ2emRCVW1hdlI2SlZ2bzB4WVc4SWZFUUJCb0EzTW8xRXlw|||
+|Mintegral|APP ID: 92762|APP Key：936dcbdd57fe235fd7cf61c2e93da3c4|Unit ID: 21310|
 |UnityAds|Game ID: 1306584|Placement ID: rewardedVideo||
-|Vungle|APP ID: 58a2794244dfb6ec5700028b|Rewarded Placement Reference ID: ANDROID03809|Interstitial Placement Reference ID: ANDROID32526|
 |ZPLAYAds|APP ID: 5C5419C7-A2DE-88BC-A311-C3E7A646F6AF|AdUnit ID: 3FBEFA05-3A8B-2122-24C7-A87D0BC9FEEC||
 
 4. Native
@@ -383,13 +390,16 @@ If there's no ad fill with your real networks' ID, we provide below test IDs whi
 |Network|Key 1|Key 2|
 |-|-|-|
 |AdMob|For details, see in [AdMob Test Ad](https://developers.google.com/admob/android/test-ads)|
-|Baidu|App ID：f0e4a343|adId: 6061450|
+|Baidu|App ID：e866cfb0|adId: 2362913|
+|BytedanceAds|应用ID：5001121|代码位ID：901121737|
 |Facebook|Placement ID: YOUR_PLACEMENT_ID|
-|GDTMob|APP ID: 1101152570|placement ID: 6040749702835933|
+|GDTMob|APP ID: 1101152570|placement ID: 2000629911207832|
 
 5. Splash
 
 |Network|Key 1|Key 2|
 |-|-|-|
+|AdMob|For details, see in [AdMob Test Ad](https://developers.google.com/admob/android/test-ads)|
 |Baidu|App ID：e866cfb0|adId: 2058622|
+|BytedanceAds|应用ID：5001121|代码位ID：801121648|
 |GDTMob|APP ID: 1101152570|placement ID: 8863364436303842593|
