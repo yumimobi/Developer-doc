@@ -270,14 +270,13 @@ If there's no ad fill with your real networks' ID, we provide below test IDs whi
 #### iOS Test ID
 1. Banner
 
-|Network|Key 1|Key 2|Key 3|
+|Network|Key 1|Key 2|
 |-|-|-|-|
 |AdMob|For details, see in [AdMob Test Ad](https://developers.google.com/admob/ios/test-ads)|||
 |Baidu|App ID：ccb60059|adId: 3722589||
 |BytedanceAds|应用 ID：5000546|代码位 ID：900546859||
 |Facebook|Placement ID: YOUR_PLACEMENT_ID|||
 |GDTMob|APP ID: 1105344611|placement ID: 1080958885885321||
-|InMobi|APP ID: 4028cb8b2c3a0b45012c406824e800ba|Placement ID: 1447912324502||
 |IQzone|Placement ID: eEZBeUY3ajRRUWM1MW5rZWpEYjB5WHZOZUR1UXJua0doa1dPS2Fha0Rsd2hCRElz|||
 |Inneractive|App ID: 102960|Spot ID: 150942|| 
 
@@ -287,7 +286,6 @@ If there's no ad fill with your real networks' ID, we provide below test IDs whi
 |Network|Key 1|Key 2|Key 3|
 |-|-|-|-|
 |AdMob|For details, see in [AdMob Test Ad](https://developers.google.com/admob/ios/test-ads)|||
-|Baidu|App ID：ccb60059|adId: 2058554||
 |BytedanceAds|应用 ID：5000546|代码位 ID：900546941||
 |Chartboost|APP ID: 5b9b2c8d61c3570e1974a657|App Signature: 43b4fcee44c0ca91b13ca2724fb0df124377248f||
 |Facebook|Placement ID: YOUR_PLACEMENT_ID|||
@@ -312,7 +310,6 @@ If there's no ad fill with your real networks' ID, we provide below test IDs whi
 |Facebook|Placement ID: YOUR_PLACEMENT_ID|||
 |GDTMob|APP ID: 1105344611|placement ID: 8020744212936426||
 |IronSource|App Key: 8545d445|Instance Id: 0||
-|InMobi|APP ID: f6af3e7b093545229fa1aa83cd0f0b59|Placement ID: 1507418095118||
 |IQzone|Placement ID: cnlWVXNOUXliczRPSlBOWjQ5dllMVTd1dlVMTEZtK1ZKWkZ1dTJVVkFvdHlpenh6|||
 |Tapjoy|SDK Key: E7CuaoUWRAWdz_5OUmSGsgEBXHdOwPa8de7p4aseeYP01mecluf-GfNgtXlF| Placement: video_unit|
 |Mintegral|APP ID: 92763|APP Key: 936dcbdd57fe235fd7cf61c2e93da3c4|Unit ID: 21319|

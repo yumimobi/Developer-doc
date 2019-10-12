@@ -277,14 +277,13 @@ protected void attachBaseContext(Context base) {
 #### iOS 测试 ID
 1. Banner
 
-|平台|参数一|参数二|参数三|
+|平台|参数一|参数二|
 |-|-|-|-|
 |AdMob|详情查看 [AdMob 测试广告](https://developers.google.com/admob/ios/test-ads)|||
 |Baidu|应用 ID：ccb60059|代码位 ID：3722589||
 |穿山甲|应用 ID：5000546|代码位 ID：900546859||
 |Facebook|Placement ID: YOUR_PLACEMENT_ID|||
 |GDTMob|媒体 ID：1105344611|广告位 ID：1080958885885321||
-|InMobi|APP ID: 4028cb8b2c3a0b45012c406824e800ba|Placement ID: 1447912324502||
 |IQzone|Placement ID: eEZBeUY3ajRRUWM1MW5rZWpEYjB5WHZOZUR1UXJua0doa1dPS2Fha0Rsd2hCRElz|||
 |Inneractive|App ID: 102960|Spot ID: 150942|| 
 
@@ -294,7 +293,6 @@ protected void attachBaseContext(Context base) {
 |平台|参数一|参数二|参数三|
 |-|-|-|-|
 |AdMob|详情查看 [AdMob 测试广告](https://developers.google.com/admob/ios/test-ads)|||
-|Baidu|应用 ID：ccb60059|代码位 ID：2058554||
 |穿山甲|应用 ID：5000546|代码位 ID：900546941||
 |Chartboost|应用 ID：5b9b2c8d61c3570e1974a657|应用签名：43b4fcee44c0ca91b13ca2724fb0df124377248f||
 |Facebook|Placement ID: YOUR_PLACEMENT_ID|||
@@ -319,7 +317,6 @@ protected void attachBaseContext(Context base) {
 |Facebook|Placement ID: YOUR_PLACEMENT_ID|||
 |GDTMob|媒体 ID：1105344611|广告位 ID：8020744212936426||
 |IronSource|App Key: 8545d445|Instance Id: 0||
-|InMobi|APP ID: f6af3e7b093545229fa1aa83cd0f0b59|Placement ID: 1507418095118||
 |IQzone|Placement ID: cnlWVXNOUXliczRPSlBOWjQ5dllMVTd1dlVMTEZtK1ZKWkZ1dTJVVkFvdHlpenh6|||
 |Tapjoy|SDK密钥: E7CuaoUWRAWdz_5OUmSGsgEBXHdOwPa8de7p4aseeYP01mecluf-GfNgtXlF |Placement: video_unit ||
 |Mintegral|应用 ID：92763|APP Key: 936dcbdd57fe235fd7cf61c2e93da3c4|广告位 ID：21319|
