@@ -271,7 +271,7 @@ If there's no ad fill with your real networks' ID, we provide below test IDs whi
 1. Banner
 
 |Network|Key 1|Key 2|
-|-|-|-|-|
+|-|-|-|
 |AdMob|For details, see in [AdMob Test Ad](https://developers.google.com/admob/ios/test-ads)|||
 |Baidu|App ID：ccb60059|adId: 3722589||
 |BytedanceAds|应用 ID：5000546|代码位 ID：900546859||

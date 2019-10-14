@@ -278,7 +278,7 @@ protected void attachBaseContext(Context base) {
 1. Banner
 
 |平台|参数一|参数二|
-|-|-|-|-|
+|-|-|-|
 |AdMob|详情查看 [AdMob 测试广告](https://developers.google.com/admob/ios/test-ads)|||
 |Baidu|应用 ID：ccb60059|代码位 ID：3722589||
 |穿山甲|应用 ID：5000546|代码位 ID：900546859||
